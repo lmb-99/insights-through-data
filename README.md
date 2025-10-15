@@ -5,7 +5,7 @@ Then I was able to analyze where the highest cancellation rates are and the reas
 
 Doing this I could propose a solution to reduce this number of cancellations.
 
-# How It's Made: 
+# What you'll need: 
 
 **Requirements:**
 - Python
